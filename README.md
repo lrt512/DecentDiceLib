@@ -32,16 +32,16 @@ try
 {
     roll = dice.Roll("1d6");
     roll = dice.Roll("3d20+1");
-	roll = dice.Roll("2d10-1");
-	roll = dice.Roll("3d6x10");
+    roll = dice.Roll("2d10-1");
+    roll = dice.Roll("3d6x10");
 }
 catch (OverflowException)
 {
-	...
+    ...
 }
 catch (FormatException)
 {
-	...
+    ...
 }
 ```
 
@@ -61,7 +61,7 @@ that fail the p test.  If you rerun the test, different tests will fail while
 ones that failed previously will pass.  This is the price of pseudorandomness.
 It's close to fair, but not perfectly so.  It's...decent.
 
-Does it matter? Not in the least.  
+Does it matter? Not in the least.
 Is it overkill? Definitely.
 Was it was fun to write? Yup!
 
