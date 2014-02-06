@@ -80,7 +80,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FairDiceLib\DecentDiceLib.csproj">
+    <ProjectReference Include="..\DecentDiceLib\DecentDiceLib.csproj">
       <Project>{0a676102-d8a7-45cf-b4fd-71e79fb5e65a}</Project>
       <Name>DecentDiceLib</Name>
     </ProjectReference>

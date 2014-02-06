@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecentDiceLib", "FairDiceLib\DecentDiceLib.csproj", "{0A676102-D8A7-45CF-B4FD-71E79FB5E65A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecentDiceLib", "DecentDiceLib\DecentDiceLib.csproj", "{0A676102-D8A7-45CF-B4FD-71E79FB5E65A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecentDiceTest", "FairDiceTest\DecentDiceTest.csproj", "{300A36E9-D065-4D83-960B-FD455666547B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecentDiceTest", "DecentDiceTest\DecentDiceTest.csproj", "{300A36E9-D065-4D83-960B-FD455666547B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C301B5C9-BCFD-49CA-A0EF-106643844A7C}"
 	ProjectSection(SolutionItems) = preProject
